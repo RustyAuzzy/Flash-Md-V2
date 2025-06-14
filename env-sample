@@ -1,6 +1,6 @@
 # Bot Configuration
-PREFIX=!,.
-YOUR_NUMBER=254742063632
+PREFIX=.,.
+YOUR_NUMBER=2540100941348
 YOUR_NAME=France King 
 YOUR_LID=your-user-id-or-lid
 MODE=private
@@ -10,8 +10,8 @@ WARNINGS=3
 ANTICALL=on
 ANTIDELETE=on
 AUTO_READ_STATUS=on
-AUTO_LIKE=off
-AUTO_READ_DM=on
+AUTO_LIKE=on
+AUTO_READ_DM=off
 
 # Presence Settings (Options: typing, online, recording, paused, offline)
 PRESENCE_DM=typing
